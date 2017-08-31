@@ -118,7 +118,7 @@ nav a:first-child {
 
 .main-section {
 	background: #fff;
-	padding: 0 30px 30px 30px;
+	padding: 20px 30px 30px 30px;
 	margin: 0 0 40px 0;
 	width: 100%;
 	max-width: 650px;
@@ -137,7 +137,7 @@ nav a:first-child {
 /* sidebar */
 .sidebar {
 	background: #fff;
-	padding: 5px 30px 30px 30px;
+	padding: 20px 30px 30px 30px;
 	width: 100%;
 	max-width: 270px;
 	float: right;
